@@ -2,7 +2,7 @@
 
 ### Project **Development of an Augmented Reality System** 
 
-This project was done as part of coursework in "Computer Vision nad Image Processing" course at the University of Bologna during my exchange semester there.
+This project was done as part of coursework in "Computer Vision and Image Processing" course at the University of Bologna during my exchange semester there.
 
 Result of the project is a software system aimed at creating an Augmented Reality (AR) video («output.avi»). The task was solved by applying Frame to Reference (F2R) method.
 
