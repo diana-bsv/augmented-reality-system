@@ -31,10 +31,10 @@ Program multiplies colours of each pixel by a coefficient. Which is the ratio be
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;<img width="300" alt="ar3" src="https://github.com/diana-bsv/augmented-reality-system/assets/127965240/412c743b-9d17-4608-b728-ca275a7517be">
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;<img width="300" alt="ar4" src="https://github.com/diana-bsv/augmented-reality-system/assets/127965240/56b1e6a1-e9b2-4d00-b988-e0eb26891582">
 
-### Issues that I faced during the project
+### Issues that were faced during the project
 Due to lack of sharpness on the edges of the augmented layer the letters on the layer disappear when the significant brightness changes occur. It happens because of the cropping and warping the original augmented layer.
 
-I solved that by applying filtering to the resulting augmented layer.
+That was solved by applying filtering to the resulting augmented layer.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img width="300" alt="ar5" src="https://github.com/diana-bsv/augmented-reality-system/assets/127965240/9849b848-67d0-4623-b0d0-12e01f92a9a5">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img width="300"  alt="ar6" src="https://github.com/diana-bsv/augmented-reality-system/assets/127965240/b6be09e7-aa39-4346-a2c9-bca05466f67f">
